@@ -1,3 +1,3 @@
 # python-helloworld
 
-Basic Python Application
+Basic Python Flask Application
